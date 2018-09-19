@@ -28,7 +28,6 @@ public class Hauteskundeak {
 		h2012.gehituMahaia("Andoain");
 		h2012.gehituMahaia("Hernani");
 		h2012.gehituMahaia("Gorliz");
-		h2012.gehituMahaia("Gernika");
 		System.out.println(h2012);
 	}
 
